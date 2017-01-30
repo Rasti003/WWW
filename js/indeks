@@ -1,0 +1,12 @@
+<!DOCTYPE <!DOCTYPE html>
+<html lang ="pl">
+<head>
+	<title></title>
+</head>
+<body>
+
+<input type="text"/>
+<input type="submit" value="Sprawdz"/>
+
+</body>
+</html>
